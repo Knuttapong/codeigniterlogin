@@ -1,0 +1,2 @@
+﻿- เปลี่ยนไปใช้ session จาก database
+- กำหนด base url
